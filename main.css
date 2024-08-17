@@ -1,0 +1,70 @@
+body {
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    font-family: sans-serif;
+}
+
+.img{
+    background: url(/img/blurkruto\ \(3\).png);
+    margin: 0px;
+    padding: 5px;
+    border-radius: 5px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 200px;
+
+
+}
+.main{
+    display: block;
+    background-color: rgba(211, 211, 204, 0.164);
+    padding: 5px;
+  
+   
+}
+.web {
+    display: block;
+    text-align: center;
+   text-decoration: none;
+   color: rgb(0, 0, 0);
+    font-size: 24px;
+
+}
+.web_h {
+    display: block;
+    text-align: center;
+   text-decoration: none;
+   color:#2f303a;
+}
+.web:not(:last-child){
+    padding-bottom: 10px;
+}
+.Discord {
+    color: rgb(90, 11, 165);
+}
+.mag {
+    color: rgb(187, 63, 41);
+}
+.add1 {
+    color: orange;
+}
+.add2 {
+    color: red;
+}
+.footer {
+    background-color: ;
+}
+.kontakt {
+ font-size: 35px;
+ text-align: center;
+
+}
+.footer {
+    display: flex ;
+    justify-content: space-around;
+}
+.main_h5 {
+    color: #2f303a;
+}
